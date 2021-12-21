@@ -6,8 +6,8 @@ Goto Command Promt
 
 write :-  
 
-          javac snowman.java (Enter)
+          javac snowman.java 
           
-          appletviewer snowman.java (Enter) 
+          appletviewer snowman.java 
           
 
