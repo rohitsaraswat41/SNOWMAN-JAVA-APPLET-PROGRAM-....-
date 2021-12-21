@@ -3,8 +3,11 @@ Design A SNOWMAN using graphics in Applet and provide movement according to pres
 
 To run this Program 
 Goto Command Promt
+
 write :-  
+
           javac snowman.java (Enter)
+          
           appletviewer snowman.java (Enter) 
           
 
